@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at [Université Libre de Bruxelles](https://www.ulb.be), pursuing a PhD co-supervised by [RWTH Aachen University](https://www.rwth-aachen.de/cms/~a/root/). My fellowship is part of the Horizon Europe MSCA program, which funds the [ENCODING](https://encoding.ulb.be) project. Since my master's studies, I have specialized in computational fluid dynamics, combustion, and machine learning.'
+I am a researcher at [Université Libre de Bruxelles](https://www.ulb.be), pursuing a PhD co-supervised by [RWTH Aachen University](https://www.rwth-aachen.de/cms/~a/root/). My fellowship is part of the Horizon Europe MSCA program, which funds the [ENCODING](https://encoding.ulb.be) project. Since my master's studies, I have specialized in computational fluid dynamics, combustion, and machine learning.
 
 Research
 ------

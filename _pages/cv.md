@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Chemical Enigneering, Université Libre de Bruxelles, 2023-2027 (expected)
+* M.S. in Aerospace Engineering, Politecnico di Torino, 2020-2023
+* B.S. in Aerospace Engineering, Politecnico di Torino, 2017-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Oct 2020 - Sep 2022: Aerodynamics Division Member
+  * Team H2politO - Politecnico di Torino
+  * Duties includes: CFD simulations and analysis of automotive vehicles
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fluid Dynamics
+* Machine Learning
+* Turbulence Modeling
+* Combustion
 
 Publications
 ======

@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at Université Libre de Bruxelles, pursuing a PhD co-supervised by RWTH Aachen University. My fellowship is part of the Horizon Europe MSCA program, which funds the [ENCODING](https://encoding.ulb.be) project. Since my master's studies, I have specialized in computational fluid dynamics, combustion, and machine learning.'
+I am a researcher at [Université Libre de Bruxelles](https://www.ulb.be), pursuing a PhD co-supervised by [RWTH Aachen University](https://www.rwth-aachen.de/cms/~a/root/). My fellowship is part of the Horizon Europe MSCA program, which funds the [ENCODING](https://encoding.ulb.be) project. Since my master's studies, I have specialized in computational fluid dynamics, combustion, and machine learning.'
 
 Research
 ======
@@ -15,5 +15,5 @@ My current research interests are turbulent combustion modeling and deep learnin
 
 Previous
 ------
-I studied Aerospace Engineering at Politecnico di Torino, with a thesis on multiphase heat exchangers at the Von Karman Institute for Fluid Dynamics. During my Master's, I joined for two years H2politO, a students' team that designs sustainable vehicle prototypes.
+I studied Aerospace Engineering at [Politecnico di Torino](https://www.polito.it), with a thesis on multiphase heat exchangers at the [Von Karman Institute for Fluid Dynamics](https://www.vki.ac.be). During my Master's, I joined for two years H2politO, a students' team that designs sustainable vehicle prototypes.
 

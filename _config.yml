@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lorenzo Piu"
-  pronouns         : example: "he/him"  
+  pronouns         : "he/him"  
   bio              : "I am a researcher in AI and sustainable combusiton"
   location         : "Brussels"
   employer         : "Université Libre de Bruxelles"

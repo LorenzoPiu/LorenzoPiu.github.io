@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Lorenzo Piu / Personal Webpage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Lorenzo Piu"
 description              : &description "Personal Webpage"
-url                      : https://LorenzoPiu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://lorenzopiu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LorenzoPiu/LorenzoPiu.github.io"
+repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
